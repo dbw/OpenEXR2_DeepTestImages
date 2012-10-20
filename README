@@ -1,3 +1,8 @@
-This repository contains OpenEXR 2.0 deep test images
+#This repository contains OpenEXR 2.0 deep test images
 
-The were created using LightWave 3D and a custom saver in development by db&w ( http://www.db-w.com )
+They were created using LightWave 3D and a custom saver in development by db&w ( http://www.db-w.com )
+
+Stored channels:
+r,g,b,a - half
+z - float
+id - uint
